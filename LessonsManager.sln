@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsManager", "LessonsManager\LessonsManager.csproj", "{F5268075-03AF-4FC6-9874-3379958B0475}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "cInstaller", "LessonsManager.Installer\LessonsManager.Installer.vdproj", "{8B9D1F4D-EEC6-420C-AA2A-69C4EE3B5A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5268075-03AF-4FC6-9874-3379958B0475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5268075-03AF-4FC6-9874-3379958B0475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5268075-03AF-4FC6-9874-3379958B0475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5268075-03AF-4FC6-9874-3379958B0475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9D1F4D-EEC6-420C-AA2A-69C4EE3B5A91}.Debug|Any CPU.ActiveCfg = Debug
+		{8B9D1F4D-EEC6-420C-AA2A-69C4EE3B5A91}.Release|Any CPU.ActiveCfg = Release
+		{8B9D1F4D-EEC6-420C-AA2A-69C4EE3B5A91}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0ABE976-8457-4826-B754-D4E4455C4DE8}
+	EndGlobalSection
+EndGlobal
